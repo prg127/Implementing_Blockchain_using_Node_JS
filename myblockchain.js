@@ -1,4 +1,4 @@
-const sha256 = require('sha256')
+const sha256 = require('sha256');
 
 
 function Blockchain() {
